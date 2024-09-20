@@ -1,1 +1,2 @@
-this is new file
+The additional information here.
+he is a developer of full-stack web developer.
