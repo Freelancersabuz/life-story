@@ -3,10 +3,6 @@ i will offer you something.
 I HAVE COMPELTE MY HSC 2014.
 I HAVE COMPELTE MY bba 2019.
 
-<<<<<<< HEAD
-I have passed my MBA program 2021
-=======
-I have completed my MBA Program 2021
->>>>>>> 4f9b9c14e66ba4b79470a15c3c3adadbb0175291
+new thismgb
 
 new bd
